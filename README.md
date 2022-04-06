@@ -37,20 +37,10 @@ APP_PORT=3003
 ENVIRONMENT=DEV
 AVAILABLE_VERSIONS="v1.0.0"
 
-<!-- database provider = atlas | mongo -->
-DB_PROVIDER=mongo
-DB_HOST=
-DB_NAME="conexa-user"
-DB_PORT=27017
-DB_USERNAME=
-DB_PASSWORD=
-
 # Log level
 LOG_LEVEL=debug
 
 #external services
-URL_PLACE_HOLDER="https://jsonplaceholder.typicode.com"
-JWT_TOKEN="sYhIGWiAmP"
 
 ```
 Open documentation: 
